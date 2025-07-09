@@ -45,7 +45,7 @@ I'm a passionate **Coding Tutor** and the proud founder of [PROMPT Computer Clas
 ## 📬 Let's Connect!
 
 - 🌐 Website: [promptcomputerclasses.in](https://www.promptcomputerclasses.in/)  
-- 📧 Email: minkalarora1991@gmail.com  
+- 📧 Email: minkal.arora1@gmail.com  
 - 📱 WhatsApp: +91-9997919967  
 - 📸 Instagram: [@minkal.arora1](https://www.instagram.com/minkal.arora1/)  
 - 💼 LinkedIn: [Minkal Arora](https://www.linkedin.com/in/minkal-arora-05275a100/)  
