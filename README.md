@@ -57,7 +57,7 @@ Here are some awesome projects built by students of PROMPT Computer Classes:
 
 - 🌐 Website: [promptcomputerclasses.in](https://www.promptcomputerclasses.in/)  
 - 📧 Email: minkal.arora1@gmail.com  
-- 📱 [WhatsApp: +91-9997919967](https://wa.me/919997919967)  
+- 📱 WhatsApp: [+91-9997919967](https://wa.me/919997919967)  
 - 📸 Instagram: [@minkal.arora1](https://www.instagram.com/minkal.arora1/)  
 - 💼 LinkedIn: [Minkal Arora](https://www.linkedin.com/in/minkal-arora-05275a100/)  
 - 📘 Facebook: [Minkal Arora](https://www.facebook.com/minkal.arora123)
