@@ -42,6 +42,17 @@ I'm a passionate **Coding Tutor** and the proud founder of [PROMPT Computer Clas
 
 ---
 
+## 🧑‍💻 Student Projects Showcase
+
+Here are some awesome projects built by students of PROMPT Computer Classes:
+
+- 🎯 [Jayant - Pet Adoption Viewer](https://github.com/jayant13-03-05/Pet-Adoption-Viewer)
+- 📚 [Satyam - WHAC A MOLE GAME](https://github.com/SatyamGupta16/WHAC-A-MOLE-GAME)
+- 🧮 [Jayant - React Filter Wishlist](https://github.com/jayant13-03-05/react-filter-wishlist)
+- 💻 [Satyam - Memory Matching Game Code](https://github.com/SatyamGupta16/Day-3-Memory-Matching-Game-Code)
+
+---
+
 ## 📬 Let's Connect!
 
 - 🌐 Website: [promptcomputerclasses.in](https://www.promptcomputerclasses.in/)  
