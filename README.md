@@ -44,12 +44,20 @@ I'm a passionate **Coding Tutor** and the proud founder of [PROMPT Computer Clas
 
 ## 🧑‍💻 Student Projects Showcase
 
-Here are some awesome projects built by students of PROMPT Computer Classes:
+Explore creative and fun projects developed by students of **PROMPT Computer Classes**:
 
-- 🎯 [Jayant - Pet Adoption Viewer](https://github.com/jayant13-03-05/Pet-Adoption-Viewer)
-- 📚 [Satyam - WHAC A MOLE GAME](https://github.com/SatyamGupta16/WHAC-A-MOLE-GAME)
-- 🧮 [Jayant - React Filter Wishlist](https://github.com/jayant13-03-05/react-filter-wishlist)
-- 💻 [Satyam - Memory Matching Game Code](https://github.com/SatyamGupta16/Day-3-Memory-Matching-Game-Code)
+- 🎯 **Jayant** – [Pet Adoption Viewer](#)  
+  A modern interface to explore and adopt pets from shelters.
+
+- 📚 **Satyam** – [Whac-A-Mole Game](#)  
+  A fun browser-based game where you whack the mole before it disappears.
+
+- 🧮 **Jayant** – [React Filter Wishlist](#)  
+  A responsive React app to filter and manage wishlist items dynamically.
+
+- 💻 **Satyam** – [Memory Matching Game](#)  
+  A memory card matching game built with logic and interactivity.
+
 
 ---
 
